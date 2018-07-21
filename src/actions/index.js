@@ -1,3 +1,10 @@
+
+// An action creator is exported from this module
+// This function returns a plain js object with two fields (type and payload)
+
 export function selectBook(book){
-  console.log('A Book has been selected');
+    return {
+      type: "BOOK_SELECTED",
+      payload: book
+    };
 }
