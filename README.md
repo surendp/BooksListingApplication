@@ -1,6 +1,6 @@
 # BookListingApplication
 
-A mini project for learning basics of Redux.
+A mini project based on 'Modern React and Redux' course for learning basics of Redux.
 
 ### Getting Started
 
@@ -10,3 +10,8 @@ A mini project for learning basics of Redux.
 > npm install
 > npm start
 ```
+
+### Outcome Of the project
+
+- Understanding on basic workflow of redux.
+- Learned and implemented the concepts of Reducers, Containers and Action Creators in react and redux.
